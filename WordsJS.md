@@ -16,11 +16,12 @@
 |[Kafeine's Tweet](https://twitter.com/kafeine/status/772801741167456257)|2016-09-05|Kafeine||
 |[New Bizarro Sundown Exploit Kit Spreads Locky](http://blog.trendmicro.com/trendlabs-security-intelligence/new-bizarro-sundown-exploit-kit-spreads-locky/)|2016-11-04|TrendMicro||
 
-######2016-10-25
+#####2016-10-25:
 Using Flash in the Redir chain.
 
-######Seen JS Names
-````
+#####Seen JS Names:
+
+```
 compiled.js
 core.js
 detect.js
@@ -33,8 +34,9 @@ jquery.js
 lang.js
 min.js
 quotes.js
-````
-######Ips  October/November 2016
+```
+
+#####Ips  October/November 2016:
 
 | Date |Domain| IP |
 | :------- | :---- | :---|
@@ -43,16 +45,16 @@ quotes.js
 |2016-10-31|ads.phoenixhealthtechnology.com|188.227.17.173|
 |2016-10-31|circuits.fatpope.com|188.227.17.173|
 |--|instruments.blacktoothgrin.net|5.200.53.225|
-````
+```
 188.227.17.176
 5.200.53.210
-````
-######2016-09-01
+```
+#####2016-09-01:
 Reaction to [Talos's Post](http://blog.talosintel.com/2016/09/shadowgate-takedown.html). Up and well.
 | Date |Domain| IP |
 |2016-09-01| cents.enterzipcode.com|5.200.55.175|
 
-######2016-09-05
+#####2016-09-05:
 
 Domain| IP
 lorenzo.mallardman.com|5.200.55.91 2016-09-05
