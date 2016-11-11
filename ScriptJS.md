@@ -1,6 +1,6 @@
 #ScriptJS/AfraidGate
 
-## __Reading__
+## __Publications:__
 | Title |  Date Here | Source |Comment|
 |---|---|---|---|
 |[Dridex Actors Get In the Ransomware Game With "Locky"](https://www.proofpoint.com/us/threat-insight/post/Dridex-Actors-Get-In-the-Ransomware-Game-With-Locky)| 2016-02-16 |Proofpoint||
