@@ -17,6 +17,7 @@
 |[New Bizarro Sundown Exploit Kit Spreads Locky](http://blog.trendmicro.com/trendlabs-security-intelligence/new-bizarro-sundown-exploit-kit-spreads-locky/)|2016-11-04|TrendMicro||
 
 #####2016-10-25:
+
 Using Flash in the Redir chain.
 
 #####Seen JS Names:
@@ -50,7 +51,9 @@ quotes.js
 5.200.53.210
 ```
 #####2016-09-01:
-Reaction to [Talos's Post](http://blog.talosintel.com/2016/09/shadowgate-takedown.html). Up and well.
+- Reaction to [Talos's Post](http://blog.talosintel.com/2016/09/shadowgate-takedown.html). :
+Up and well.
+
 | Date |Domain| IP |
 |2016-09-01| cents.enterzipcode.com|5.200.55.175|
 
