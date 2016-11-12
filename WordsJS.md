@@ -120,7 +120,7 @@ extradition.keithlweaver.com|5.200.55.58 2016-09-05
 85.143.219.24
 85.143.221.238
 ```
-#######Pattern
+######Pattern
 ```
 using.tera.business/scenarios/lang.js
 ambassador.brandondavisproject.com/watching/header.js
