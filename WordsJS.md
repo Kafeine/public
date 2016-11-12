@@ -55,6 +55,7 @@ quotes.js
 Up and well.
 
 | Date |Domain| IP |
+| :------- | :---- | :---|
 |2016-09-01| cents.enterzipcode.com|5.200.55.175|
 
 #####2016-09-05:
