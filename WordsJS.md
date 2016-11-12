@@ -61,6 +61,7 @@ Up and well.
 #####2016-09-05:
 
 Domain| IP
+ :------- | :---- 
 lorenzo.mallardman.com|5.200.55.91 2016-09-05
 extradition.keithlweaver.com|5.200.55.58 2016-09-05
 
