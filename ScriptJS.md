@@ -46,3 +46,4 @@
 |161015|round.luc-hariman.com|159.203.2.200|
 |161015|alexa.lorea.io|159.203.2.200|
 |161023|club.panduan-ngeblog.com|138.68.135.94|
+|161120|parameter.miafp.cl|159.203.18.229|
