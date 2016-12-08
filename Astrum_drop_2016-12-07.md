@@ -1,6 +1,6 @@
 ###Some Astrum drops###
 
->I have been asked for samples tied to Astrum EK (referered as Stegano EK by Eset in this [awesome writeup](http://www.welivesecurity.com/2016/12/06/readers-popular-websites-targeted-stealthy-stegano-exploit-kit-hiding-pixels-malicious-ads/)) mentionned in that screenshot of MISP:
+>I have been asked for samples tied to Astrum EK (referered as Stegano EK by Eset in this [nice writeup](http://www.welivesecurity.com/2016/12/06/readers-popular-websites-targeted-stealthy-stegano-exploit-kit-hiding-pixels-malicious-ads/)) mentionned in that screenshot of MISP:
 [![AdGholas - Campaign - MISP](https://pbs.twimg.com/media/Cy_rgPxW8AAgFdi.jpg)](https://twitter.com/kafeine/status/806122813966913536)
 https://twitter.com/kafeine/status/806122813966913536
 
