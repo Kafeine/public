@@ -37,7 +37,7 @@ min.js
 quotes.js
 ```
 
-#####Ips :
+#####Domain| IP :
 
 | Date |Domain| IP |
 | :------- | :---- | :---|
@@ -46,6 +46,9 @@ quotes.js
 |2016-11-07|exile.bestbeverlyhillsdermatologist.co|185.158.154.43|
 |2016-10-31|ads.phoenixhealthtechnology.com|188.227.17.173|
 |2016-10-31|circuits.fatpope.com|188.227.17.173|
+|2016-09-05|lorenzo.mallardman.com|5.200.55.91|
+|2016-09-05|extradition.keithlweaver.com|5.200.55.58|
+|2016-09-01| cents.enterzipcode.com|5.200.55.175|
 |--|instruments.blacktoothgrin.net|5.200.53.225|
 ```
 188.227.17.176
@@ -59,15 +62,8 @@ Up and well.
 | :------- | :---- | :---|
 |2016-09-01| cents.enterzipcode.com|5.200.55.175|
 
-#####2016-09-05:
-
-Domain| IP
- :------- | :---- 
-lorenzo.mallardman.com|5.200.55.91 2016-09-05
-extradition.keithlweaver.com|5.200.55.58 2016-09-05
 
 ######Ips  August/September 2016
-
 
 ```
 188.227.16.162
@@ -84,7 +80,6 @@ extradition.keithlweaver.com|5.200.55.58 2016-09-05
 85.143.217.24
 85.143.222.149
 ```
-
 ######IPs march/april 2016
 
 ```
