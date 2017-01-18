@@ -41,6 +41,7 @@ quotes.js
 
 | Date |Domain| IP |
 | :------- | :---- | :---|
+|2017-01-18|ad1.alignandflownj.com|110.10.179.132|
 |2017-01-17|openadv.midera.info|216.155.142.254|
 |2016-11-07|folder.shimmyshewobble.com|185.158.154.43|
 |2016-11-07|exile.bestbeverlyhillsdermatologist.co|185.158.154.43|
