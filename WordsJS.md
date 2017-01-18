@@ -37,7 +37,7 @@ min.js
 quotes.js
 ```
 
-#####Ips  October/November 2016:
+#####Ips :
 
 | Date |Domain| IP |
 | :------- | :---- | :---|
