@@ -13,6 +13,7 @@
 
 | Date |Domain| IP |
 | :------- | :---- | :---|
+|170122|cuprum.poemar.es|146.185.151.179|
 |170122|bombarda.mkoussa.com|146.185.151.179|
 |170121|pistole.1stclassmunitions.com|146.185.151.179|
 |170118|team.motivaplan.com.br|45.55.10.142|
