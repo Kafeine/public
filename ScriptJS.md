@@ -13,6 +13,7 @@
 
 | Date |Domain| IP |
 | :------- | :---- | :---|
+|170206|tandem.florenciaespineira.cl|192.241.246.34|
 |170204|torneonis.cattcval.com.ve|138.197.222.151|
 |170203|longtrim.datatestserver.com|159.203.30.60|
 |170201|kithole.seanconnor.com|159.203.30.60|
