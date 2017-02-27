@@ -1,4 +1,17 @@
-# RIG new Pattern
+# RIG Pattern
+
+
+2017-02-25
+```
+2017/02/25 18:50:37;1top.cpamarketingmedia.com;80;92.53.97.144;9123;TimeWeb Ltd.;/?oq=xfUpLLJVOgqyjUKIfgVjz4sPVFMVov-riEfVnESc0p6E_kbcNw9G-qKlJLd_mhj2&q=w3jQMvXcJxzQFYbGMv7DSKNbNknWHViPxoyG9MildZqqZGX_k7PDfF-qoV3cCgWR&word=mutilate&biw=blouse.96rg88.406a4p3i8&ct=blouse
+2017/02/25 19:50:16;new.hjx4yz.xyz;80;92.53.127.252;9123;TimeWeb Ltd.;/?oq=elmD9_stKLQFOgGy3ECGKQdkz4ZfBFMToaH4hkbQnEXJ0sKFqRG9UToBvdeW&q=zn3QMvXcJwDQDoLGMvrESLtEMUbQA0KK2OH_76qyEoH9JHT1vrPUSkrttgWC
+```
+```
+2017/02/24 22:30:17;acc.dentalko.com;80;217.107.34.243;8342;JSC RTComm.RU;/?br_fl=4169&oq=h9KcsKLYGOADphBSBeVRjz4haVVlG8Kim30CBzRHIhJ-L9ByNNw11z6LRVvQ42w&tuif=5562&biw=educate.75bg110.406h2k9a1&q=wHbQMvXcJwDPFYbGMvrER6NbNknQA06PxpH2_drXdZqxKGni2eb5UUSk6F-CEh3&word=hawker&yus=educate.79ek73.406c3x9p0&ct=educate
+2017/02/24 22:35:21;acc.dentalko.com;80;217.107.34.243;8342;JSC RTComm.RU;/?biw=throw.76wu58.406o1e8l8&q=wHfQMvXcJwDHFYbGMvrETqNbNknQA0-PxpH2_drTdZqxKGni1-b5UUSk6FWCEh3&oq=hofssfLEBOgbijxGBKVFgyYteAV4Q9_-ri0DRzx-YgMaL-RfeNQ51z6LRVvQy2w&word=approachable&ct=throw
+2017/02/24 22:40:17;acc.dentalko.com;80;217.107.34.243;8342;JSC RTComm.RU;/?word=approachable&biw=educate.89oa115.406r5v7k2&q=wXbQMvXcJwDQC4bGMvrESLtDNknQA0KK2In2_dqyEoH9e2nihNzUSkry6B2aC&ct=educate&oq=m2D9PQpKLFZPgriiBHRLQc0lY9aVA5Bov-p20jQyB7Ig5PW-BfcUTp1u9CdUbI
+```
+
 *October 2016*
 - 2016-10-24 - RIG-v Pattern
 - 2016-11-01 - RIG standard is now using same pattern (Old pattern only in Empire Pack)
