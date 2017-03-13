@@ -1,5 +1,12 @@
 # RIG Pattern
 
+2017-03-12 - Pattern switch
+```
+2017/03/12 18:15:20;rty.taffconstruction.com;80;5.200.53.22;48096;OOO IT-Grad;/?q=w37QMvXcJxnQFYbGMv3DSKNbNkfWHViPxouG9MildZeqZGX_k7fDfF-qoV7cCgWR&oq=xfAqKbIFbgvijkaDcwcwmthZUlsV9qiqhkKHzkSV1peFq0GLaQ4Q9qKlJLV_mhj2
+2017/03/12 18:20:18;rty.taffconstruction.com;80;5.200.53.22;48096;OOO IT-Grad;/?oq=CelvQ_PV7L7RQPQvk30GFLwI0ztsLUl0R8quqh0LUyxDK1p6G-yW9UU4HupE&ct=border&que=border.118ut66.406p9g2a8&fix=border.118hb57.406p5u4c9&q=z3_QMvXcJwDQDoTDMvrESLtEMU_OG0KK2OH_783VCZf9JHT1vvHPRAPwtgW&biw=border.85fk114.406f7e9f8
+```
+More example :
+http://pastebin.com/raw/LPTJAMYp
 
 2017-02-25 - Pattern switch
 ```
