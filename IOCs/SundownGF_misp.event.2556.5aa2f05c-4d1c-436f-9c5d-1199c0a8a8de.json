@@ -110,7 +110,7 @@
                 "event_id": "2556",
                 "distribution": "5",
                 "timestamp": "1520628269",
-                "comment": "GreenFlash: CVE-2018-4878 consealed with Stegano",
+                "comment": "GreenFlash: CVE-2018-4878",
                 "sharing_group_id": "0",
                 "deleted": false,
                 "disable_correlation": false,
