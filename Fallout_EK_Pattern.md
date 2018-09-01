@@ -1,3 +1,5 @@
+For Fallout see: https://www.nao-sec.org/2018/09/hello-fallout-exploit-kit.html
+-
 2018-08-30&31
 
 Landing:
